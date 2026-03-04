@@ -1,0 +1,1 @@
+A program that checks the NATO word for an alphabets
